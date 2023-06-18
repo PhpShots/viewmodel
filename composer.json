@@ -1,0 +1,16 @@
+{
+    "name": "phpshots/viewmodel",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Phpshots\\Viewmodel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alshatri abdul hakimu",
+            "email": "hakimushamavu@gmail.com"
+        }
+    ],
+    "require": {}
+}
